@@ -1,0 +1,27 @@
+{
+	"id": "6ff19589-ec12-4da4-a7e8-59fffcf0c077",
+	"name": "Trello",
+	"values": [
+		{
+			"key": "token",
+			"value": "ATTA7b5d238526db9857b27dda5c2836dcf4c136ad395aaff3dd841b4ffb138b4b6d64C2B742",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "key",
+			"value": "872885ea99dc6ecccdc7c0999ecfd9d6",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "boardId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2024-10-09T19:21:18.925Z",
+	"_postman_exported_using": "Postman/11.14.1"
+}
